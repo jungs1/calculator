@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+calculator/calculator.egg-info/PKG-INFO
+calculator/calculator.egg-info/SOURCES.txt
+calculator/calculator.egg-info/dependency_links.txt
+calculator/calculator.egg-info/top_level.txt
+tests/test_calculator.py
